@@ -1,0 +1,9 @@
+Package: com.guzzler.movepagedots2
+Name: movepagedots2
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Guzzler829
+Author: Guzzler829
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
